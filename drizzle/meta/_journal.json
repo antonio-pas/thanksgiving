@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1763322200400,
+      "tag": "0000_melodic_sandman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1763329556632,
+      "tag": "0001_red_madripoor",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1763343779754,
+      "tag": "0002_colorful_doctor_spectrum",
+      "breakpoints": true
+    }
+  ]
+}
