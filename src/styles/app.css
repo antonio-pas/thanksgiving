@@ -1,12 +1,11 @@
 @import 'tailwindcss';
-@import '../assets/satoshi/css/satoshi.css';
-@import '../assets/switzer/css/switzer.css';
 @import "tw-animate-css";
+@import '@fontsource-variable/inter';
 
 /* @custom-variant dark (&:is(.dark *)); */
 
 @theme inline {
-  --font-sans: 'Switzer-Variable';
+  --font-sans: 'Inter Variable', system-ui, sans-serif;
   --color-border: var(--color-neutral-800);
   --color-foreground: var(--color-neutral-200);
   --color-muted-foreground: var(--color-neutral-200);
