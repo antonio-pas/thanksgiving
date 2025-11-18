@@ -14,6 +14,6 @@ export default defineConfig({
     }),
     tailwindcss(),
     tanstackStart(),
-    viteReact()
+    viteReact(),
   ],
 })
